@@ -1,0 +1,5 @@
+import { createApp } from "/node_modules/.vite/deps/vue.js?v=96753e0c";
+import App from "/src/App.vue";
+createApp(App).mount("#app");
+
+//# sourceMappingURL=data:application/json;base64,eyJtYXBwaW5ncyI6IkFBQUEsU0FBUyxpQkFBaUI7QUFDMUIsT0FBTyxTQUFTO0FBRWhCLFVBQVUsSUFBSSxDQUFDLE1BQU0sT0FBTyIsIm5hbWVzIjpbXSwic291cmNlcyI6WyJtYWluLnRzIl0sInZlcnNpb24iOjMsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IGNyZWF0ZUFwcCB9IGZyb20gJ3Z1ZSdcbmltcG9ydCBBcHAgZnJvbSAnLi9BcHAudnVlJ1xuXG5jcmVhdGVBcHAoQXBwKS5tb3VudCgnI2FwcCcpXG4iXX0=
